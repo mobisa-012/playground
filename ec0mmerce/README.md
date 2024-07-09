@@ -14,3 +14,25 @@ A new Flutter project.
   b. Database - firestore
   c. Backend logic - using Node.js and deploy to Cloud Functions
 5. If working well, deploy to play store
+
+## Day One (Bottom Navigation bar)
+1. Enums
+2. Bloc and provider state managements
+3. Design - Fixed and shifting
+
+## DAY TWO (Navigation acreoss screens)
+1. Routes - Material routing
+2. Named routes
+3. We can use Bloc to navigate
+
+## Day 3 (Pass data across screens)
+
+## Day 4(Learn Cloud Firestore)
+1. collections & collections groups
+2. documents
+3. query snapshots or document snapshots
+4. saving data to firestore
+
+## Day 5 (Try firestore again)
+
+## Day 6 Realtime Database
